@@ -43,4 +43,3 @@ if which geeqie; then
 elif which okular; then
 	okular $ESSID.png
 fi
-rm -v "$ESSID.png"
